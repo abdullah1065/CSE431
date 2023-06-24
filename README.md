@@ -1,3 +1,3 @@
-# CSE431
+# CSE431 Team Work [Summer 2023]
 
-NLP
+Natural language processing (NLP) 
