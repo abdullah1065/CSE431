@@ -1,21 +1,21 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/jqvdkkpyczgv
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/playlist?list=PLiDvEEl4F6DulNQUGFd_wLj1uB6csjbk0
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1IRzwLFjfzx0YywvGx0JeymLUcxIrh5V_89zjyfPWdlM/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Develop Reading Comprehension-Based Question Answering
 
 Group Number:
-0
+7
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20101437 ANTARA FIRUZ PARSA
+20301065 ABDULLAH KHONDOKER
+20301071 S M ISHTIAK MAHMUD
+20301078 MD. IFTEKHAR ISLAM TASHIK
+20301398 ENAM AHMED TAUFIK
