@@ -11,10 +11,11 @@ Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Group Number:
-0
+07
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20101437 ANTARA FIRUZ PARSA
+20301065 ABDULLAH KHONDOKER
+20301071 S M ISHTIAK MAHMUD
+20301078 MD. IFTEKHAR ISLAM TASHIK
+20301398 ENAM AHMED TAUFIK
