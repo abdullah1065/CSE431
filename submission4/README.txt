@@ -5,7 +5,7 @@ Unlisted YouTube video:
 http://youtube....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Unleashing the Power of Hybrid NLP Models: Reading Comprehension-Based Question Answering through Text-based QA Systems.
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
