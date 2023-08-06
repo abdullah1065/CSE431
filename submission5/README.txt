@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/jqvdkkpyczgv
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/FQM700Ev0sg
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Unleashing the Power of Hybrid NLP Models: Reading Comprehension-Based Question Answering through Text-based QA Systems.
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://github.com/abdullah1065/CSE431/blob/52a152755436b4b74448e80b8c46b3dec13617c5/submission5/2nd_Draft.pdf
 
 Group Number:
 07
