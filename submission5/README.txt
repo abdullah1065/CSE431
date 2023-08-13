@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/jqvdkkpyczgv
 
 Unlisted YouTube video:
-https://youtu.be/FQM700Ev0sg
+https://youtu.be/5oxqfxn3KvE
 
 Paper title:
 Unleashing the Power of Hybrid NLP Models: Reading Comprehension-Based Question Answering through Text-based QA Systems.
