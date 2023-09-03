@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/5oxqfxn3KvE
 
 Paper title:
-Unleashing the Power of Hybrid NLP Models: Reading Comprehension-Based Question Answering through Text-based QA Systems.
+Unlocking the Potential of Multiple BERT Models for Bangla Question Answering in NCTB Textbooks.
 
 Paper presentation (anyone can view without login):
 https://github.com/abdullah1065/CSE431/blob/fc7b1eec1ecf6f4fd532bb19e3f726d8c8bfb841/submission5/2nd_Draft.pdf
