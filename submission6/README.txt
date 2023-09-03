@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Unleashing the Power of Hybrid NLP Models: Reading Comprehension-Based Question Answering through Text-based QA Systems.
+Unlocking the Potential of Multiple BERT Models for Bangla Question Answering in NCTB Textbooks.
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1HWRHWrIpkMK-NP3930CwAZDZLBpCRvhVCZ1DaV_G1Is/edit?usp=sharing
