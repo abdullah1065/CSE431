@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
