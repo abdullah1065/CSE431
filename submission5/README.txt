@@ -8,7 +8,7 @@ Paper title:
 Unlocking the Potential of Multiple BERT Models for Bangla Question Answering in NCTB Textbooks.
 
 Paper presentation (anyone can view without login):
-https://github.com/abdullah1065/CSE431/blob/fc7b1eec1ecf6f4fd532bb19e3f726d8c8bfb841/submission5/2nd_Draft.pdf
+https://github.com/abdullah1065/CSE431/blob/6969086ba25b4bec7df05b3ad663d92997c80cdf/submission5/2nd_Draft.pdf
 
 Group Number:
 07
