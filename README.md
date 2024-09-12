@@ -1,5 +1,5 @@
 # Bangla Question-Answering System Using BERT Models 
-## [## Paper](https://github.com/abdullah1065/CSE431/blob/main/submission7/2023_Summer_CSE431_Team_07_Advancements_and_Challenges_in_Bangla_Question_Answering_Models__A_Comprehensive_Review.pdf)
+## [Paper](https://github.com/abdullah1065/CSE431/blob/main/submission7/2023_Summer_CSE431_Team_07_Advancements_and_Challenges_in_Bangla_Question_Answering_Models__A_Comprehensive_Review.pdf)
 
 <a href="https://ibb.co/VSDY5gY"><img src="https://i.ibb.co/Njp2b92/Natural-Language-Processing-1.png" alt="Natural-Language-Processing-1" border="0"></a>
 
